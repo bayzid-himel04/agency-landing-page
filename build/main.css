@@ -3222,20 +3222,76 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .home--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/background.png) no-repeat center; background-size: cover; height: 960px; }
 
+@media only screen and (max-width: 991px) { .home--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/background.png) no-repeat right; } }
+
 .blog--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/blogg.PNG) no-repeat right; width: auto; height: 1007.64px; position: relative; z-index: 1; }
 
 .blog--pic { width: 336px; height: 249px; }
 
 .testimony--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/test.PNG) no-repeat left top; height: 562px; }
 
+@media only screen and (max-width: 767px) { .testimony--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/test.PNG) no-repeat center top; } }
+
 .footer--dot { height: 346px; width: 292px; margin-left: -160px; margin-top: -220px; position: absolute; }
+
+@media only screen and (max-width: 360px) { .footer--dot { margin-top: -180px; margin-left: -260px; z-index: -1; } }
 
 .footer--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/testimony_back2.PNG) no-repeat center; background-size: contain; padding-top: 90px; }
 
+@media only screen and (max-width: 991px) { .footer--background { margin-top: -60px; } }
+
+@media only screen and (max-width: 767px) { .footer--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/testimony_back2.PNG) no-repeat left; margin-top: 0px; } }
+
+@media only screen and (max-width: 575px) { .footer--background { margin-top: -30px; } }
+
+@media only screen and (max-width: 360px) { .footer--background { margin-top: 40px; } }
+
 .myservice--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/service.PNG) no-repeat right; height: 346px; width: 292px; margin-left: 999px; margin-top: -440px; position: absolute; z-index: -5; }
+
+@media only screen and (max-width: 1399px) { .myservice--background { margin-left: 1040px; margin-top: -500px; } }
+
+@media only screen and (max-width: 1299px) { .myservice--background { margin-left: 950px; } }
+
+@media only screen and (max-width: 1199px) { .myservice--background { margin-left: 710px; margin-top: -530px; } }
+
+@media only screen and (max-width: 991px) { .myservice--background { margin-left: 480px; margin-top: -530px; } }
+
+@media only screen and (max-width: 767px) { .myservice--background { margin-left: 300px; margin-top: -470px; } }
+
+@media only screen and (max-width: 575px) { .myservice--background { height: 246px; width: 220px; margin-left: 219px; margin-top: -362px; } }
+
+@media only screen and (max-width: 360px) { .myservice--background { margin-left: 164px; } }
 
 .about--pic { width: 390px; height: auto; }
 
+@media only screen and (max-width: 991px) { .about--pic { width: 362.43px; } }
+
+@media only screen and (max-width: 360px) { .about--pic { width: 285.43px; } }
+
 .about--dot { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat right; width: 200px; height: 188.97px; }
 
+@media only screen and (max-width: 767px) { .about--dot { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right; width: 60.91px; height: auto; } }
+
+@media only screen and (max-width: 360px) { .about--dot { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right; width: auto; height: auto; } }
+
 .about--ring { width: 161.58px; height: 161.58px; position: absolute; margin-left: 325px; margin-top: -43px; z-index: 2; }
+
+@media only screen and (max-width: 1399px) { .about--ring { margin-left: 278px; margin-top: 2px; } }
+
+@media only screen and (max-width: 1299px) { .about--ring { margin-left: 228px; } }
+
+@media only screen and (max-width: 991px) { .about--ring { width: 138.58px; height: 138.58px; margin-left: 2px; margin-top: 12px; } }
+
+@media only screen and (max-width: 767px) { .about--ring { margin-left: 26px; margin-top: 4px; } }
+
+@media only screen and (max-width: 360px) { .about--ring { width: 120.58px; height: 120.58px; margin-left: 2px; margin-top: -15px; } }
+
+.form--bg { background: url(/assets/image/form2.png) no-repeat center top; margin-top: -60px; }
+
+@media only screen and (max-width: 991px) { .form--bg { margin-top: -40px; } }
+
+@media only screen and (max-width: 767px) { .form--bg { margin-top: 1060px; } }
+
+@media only screen and (max-width: 575px) { .form--bg { margin-top: 820px; } }
+
+@media only screen and (max-width: 360px) { .form--bg { margin-top: 1100px; } }
