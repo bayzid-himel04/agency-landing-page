@@ -3220,22 +3220,22 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
   .table-dark th, .table-dark td, .table-dark thead th, .table-dark tbody + tbody { border-color: #dee2e6; }
   .table .thead-dark th { color: inherit; border-color: #dee2e6; } }
 
-.home--background { background: url(/assets/image/background.Png) no-repeat center; background-size: cover; height: 960px; }
+.home--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/background.png) no-repeat center; background-size: cover; height: 960px; }
 
-.blog--background { background: url(/assets/image/blogg.PNG) no-repeat right; width: auto; height: 1007.64px; position: relative; z-index: 1; }
+.blog--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/blogg.PNG) no-repeat right; width: auto; height: 1007.64px; position: relative; z-index: 1; }
 
 .blog--pic { width: 336px; height: 249px; }
 
-.testimony--background { background: url(/assets/image/test.PNG) no-repeat left top; height: 562px; }
+.testimony--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/test.PNG) no-repeat left top; height: 562px; }
 
 .footer--dot { height: 346px; width: 292px; margin-left: -160px; margin-top: -220px; position: absolute; }
 
-.footer--background { background: url(/assets/image/testimony_back2.PNG) no-repeat center; background-size: contain; padding-top: 90px; }
+.footer--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/testimony_back2.PNG) no-repeat center; background-size: contain; padding-top: 90px; }
 
-.myservice--background { background: url(/assets/image/service.PNG) no-repeat right; height: 346px; width: 292px; margin-left: 999px; margin-top: -440px; position: absolute; z-index: -5; }
+.myservice--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/service.PNG) no-repeat right; height: 346px; width: 292px; margin-left: 999px; margin-top: -440px; position: absolute; z-index: -5; }
 
 .about--pic { width: 390px; height: auto; }
 
-.about--dot { background: url(/assets/image/boy_write_back.png) no-repeat right; width: 200px; height: 188.97px; }
+.about--dot { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat right; width: 200px; height: 188.97px; }
 
 .about--ring { width: 161.58px; height: 161.58px; position: absolute; margin-left: 325px; margin-top: -43px; z-index: 2; }
