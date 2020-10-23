@@ -1,3 +1,4 @@
+
 .home--background {
     background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/background.png) no-repeat center; 
     background-size: cover;
@@ -5,6 +6,7 @@
     @media only screen and (max-width: 991px){
       background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/background.png) no-repeat right;
     }
+   
   }
   .blog {
     &--background {
@@ -22,7 +24,7 @@
   .testimony--background {
     background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/test.PNG) no-repeat left top; 
     height: 562px;
-    @media only screen and (max-width: 767px){
+    @media only screen and (max-width: 768px){
       background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/test.PNG) no-repeat center top;
     }
     
@@ -33,6 +35,32 @@
     margin-left: -160px;
     margin-top: -220px;
     position: absolute;
+    @media only screen and (max-width: 1366px){
+      margin-top: -210px;
+      margin-left: -180px;
+     
+      height:300px;
+      
+    }
+    @media only screen and (max-width: 1024px){
+      margin-top: -210px;
+      margin-left: -230px;
+      z-index: -1;
+      height:300px;
+      
+    }
+    @media only screen and (max-width: 768px){
+      margin-top: -199px;
+      margin-left: -260px;
+      z-index: -1;
+      
+    }
+    @media only screen and (max-width: 420px){
+      margin-top: -199px;
+      margin-left: -260px;
+      z-index: -1;
+      
+    }
     @media only screen and (max-width: 360px){
       margin-top: -180px;
       margin-left: -260px;
@@ -44,14 +72,17 @@
     background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/testimony_back2.PNG) no-repeat center; 
     background-size: contain;
     padding-top: 90px;
-    @media only screen and (max-width: 991px){
+    @media only screen and (max-width: 1365px){
       margin-top: -60px;
     }
-    @media only screen and (max-width: 767px){
+    @media only screen and (max-width: 1024px){
+      margin-top: -60px;
+    }
+    @media only screen and (max-width: 768px){
       background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/testimony_back2.PNG) no-repeat left;
       margin-top: 0px;
     }
-    @media only screen and (max-width: 575px){
+    @media only screen and (max-width: 420px){
       margin-top: -30px;
       
     }
@@ -69,26 +100,22 @@
     margin-top: -440px;
     position: absolute;
     z-index: -5;
-    @media only screen and (max-width: 1399px){
-      margin-left: 1040px;
-      margin-top: -500px;
-    }
-    @media only screen and (max-width: 1299px){
-      margin-left: 950px;
-    }
-    @media only screen and (max-width: 1199px){
-      margin-left: 710px;
-      margin-top: -530px;
-    }
-    @media only screen and (max-width: 991px){
-      margin-left: 480px;
-      margin-top: -530px;
-    }
-    @media only screen and (max-width: 767px){
-      margin-left: 300px;
+    @media only screen and (max-width: 1366px){
+      margin-left: 930px;
       margin-top: -470px;
     }
-    @media only screen and (max-width: 575px){
+   
+    @media only screen and (max-width: 1024px){
+      margin-left: 680px;
+      margin-top: -480px;
+      width:300px;
+    }
+    @media only screen and (max-width: 768px){
+      margin-left: 460px;
+      margin-top: -490px;
+      height: 300px;
+    }
+    @media only screen and (max-width: 420px){
       height: 246px;
       width: 220px;
       margin-left: 219px;
@@ -104,8 +131,21 @@
     &--pic {
       width: 390px;
       height: auto;
-      @media only screen and (max-width: 991px){
+      @media only screen and (max-width: 1365px){
         width: 362.43px;
+      }
+      @media only screen and (max-width: 1024px){
+        width: 285.43px;
+        
+      }
+      @media only screen and (max-width: 768px){
+        width: 285.43px;
+        margin-left: 55px;
+        
+      }
+      @media only screen and (max-width: 420px){
+        width: 265px;
+        
       }
       @media only screen and (max-width: 360px){
         width: 285.43px;
@@ -116,10 +156,28 @@
       background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat right;
       width: 200px;
       height: 188.97px;
-      @media only screen and (max-width: 767px){
+      @media only screen and (max-width: 1365px){
         background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right;
         width: 60.91px;
         height: auto;
+      }
+      @media only screen and (max-width: 1024px){
+        background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right;
+        width: auto;
+        height: auto;
+        
+      }
+      @media only screen and (max-width: 768px){
+        background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right;
+        width: auto;
+        height: auto;
+        
+      }
+      @media only screen and (max-width: 420px){
+        background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right;
+        width: auto;
+        height: auto;
+        
       }
       @media only screen and (max-width: 360px){
         background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/boy_write_back.png) no-repeat top right;
@@ -135,42 +193,49 @@
       margin-left: 325px;
       margin-top: -43px;
       z-index: 2;
-      @media only screen and (max-width: 1399px){
-        margin-left: 278px;
-        margin-top: 2px;
+      @media only screen and (max-width: 1366px){
+        margin-left: 250px;
+        margin-top: -40px;
       }
-      @media only screen and (max-width: 1299px){
-        margin-left: 228px;
-      }
-      @media only screen and (max-width: 991px){
+      
+      @media only screen and (max-width: 1024px){
         width: 138.58px;
         height: 138.58px;
-        margin-left: 2px;
-        margin-top: 12px;
+        margin-left: 190px;
+        margin-top: -20px;
       }
-      @media only screen and (max-width: 767px){
-        margin-left: 26px;
-        margin-top: 4px;
+      @media only screen and (max-width: 768px){
+        margin-left: 60px;
+        margin-top: -25px;
+      }
+      @media only screen and (max-width: 420px){
+        width: 120.58px;
+      height: 120.58px;
+      margin-left: 35px;
+      margin-top: -20px;
       }
       @media only screen and (max-width: 360px){
         width: 120.58px;
       height: 120.58px;
-      margin-left: 2px;
-      margin-top: -15px;
+      margin-left: -2px;
+      margin-top: -20px;
       }
     }
   }
   .form--bg {
-    background: url(/assets/image/form2.png) no-repeat center top;
+    background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/form2.png) no-repeat center top;
     margin-top: -60px;
-    @media only screen and (max-width: 991px){
+    @media only screen and (max-width: 1365px){
       margin-top: -40px;
     }
-    @media only screen and (max-width: 767px){
-      margin-top: 1060px;
+    @media only screen and (max-width: 1024px){
+      margin-top: -40px;
     }
-    @media only screen and (max-width: 575px){
-      margin-top: 820px;
+    @media only screen and (max-width: 768px){
+      margin-top: 50px;
+    }
+    @media only screen and (max-width: 420px){
+      margin-top: 1000px;
       
     }
     @media only screen and (max-width: 360px){
@@ -178,3 +243,41 @@
       
     }
   }
+  .padding{
+    @media only screen and (max-width: 768px){
+      margin: 30px;
+      margin-left: 75px;
+      justify-content: center;
+     }
+     @media only screen and (max-width: 1024px){
+      padding-left: 5px;  
+     }
+    @media only screen and (max-width: 420px){
+      padding:5px;
+      
+    }
+    @media only screen and (max-width: 360px){
+      padding:5px;
+      
+    }
+  }
+ .top{
+  @media only screen and (max-width: 1366px){
+    margin-top:290px;
+  }
+  @media only screen and (max-width: 1024px){
+   margin-top:280px;
+  }
+  @media only screen and (max-width: 768px){
+    margin-top:200px;
+  }
+  @media only screen and (max-width: 420px){
+   margin-top: 100px;
+    
+  }
+  @media only screen and (max-width: 360px){
+   margin-top:50px;
+    
+  }
+ 
+ }
