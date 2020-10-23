@@ -102,7 +102,7 @@
     z-index: -5;
     @media only screen and (max-width: 1366px){
       margin-left: 930px;
-      margin-top: -470px;
+      margin-top: -480px;
     }
    
     @media only screen and (max-width: 1024px){
@@ -111,18 +111,18 @@
       width:300px;
     }
     @media only screen and (max-width: 768px){
-      margin-left: 460px;
+      margin-left: 440px;
       margin-top: -490px;
-      height: 300px;
+      height: 320px;
     }
     @media only screen and (max-width: 420px){
       height: 246px;
       width: 220px;
-      margin-left: 219px;
+      margin-left: 190px;
       margin-top: -362px;
     }
     @media only screen and (max-width: 360px){
-      margin-left: 164px;
+      margin-left: 131px;
     }
     
     
@@ -194,8 +194,8 @@
       margin-top: -43px;
       z-index: 2;
       @media only screen and (max-width: 1366px){
-        margin-left: 250px;
-        margin-top: -40px;
+        margin-left: 255px;
+        margin-top: -38px;
       }
       
       @media only screen and (max-width: 1024px){
@@ -211,13 +211,13 @@
       @media only screen and (max-width: 420px){
         width: 120.58px;
       height: 120.58px;
-      margin-left: 35px;
+      margin-left: 40px;
       margin-top: -20px;
       }
       @media only screen and (max-width: 360px){
         width: 120.58px;
       height: 120.58px;
-      margin-left: -2px;
+      margin-left: 7px;
       margin-top: -20px;
       }
     }
@@ -246,18 +246,20 @@
   .padding{
     @media only screen and (max-width: 768px){
       margin: 30px;
-      margin-left: 75px;
+      margin-left: 100px;
       justify-content: center;
      }
      @media only screen and (max-width: 1024px){
-      padding-left: 5px;  
+      padding: 5px;  
      }
     @media only screen and (max-width: 420px){
-      padding:5px;
+      padding:2px;
+      margin-left:32px;
       
     }
     @media only screen and (max-width: 360px){
       padding:5px;
+      margin-left:32px;
       
     }
   }

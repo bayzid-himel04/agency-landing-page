@@ -3258,15 +3258,15 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .myservice--background { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/service.PNG) no-repeat right; height: 346px; width: 292px; margin-left: 999px; margin-top: -440px; position: absolute; z-index: -5; }
 
-@media only screen and (max-width: 1366px) { .myservice--background { margin-left: 930px; margin-top: -470px; } }
+@media only screen and (max-width: 1366px) { .myservice--background { margin-left: 930px; margin-top: -480px; } }
 
 @media only screen and (max-width: 1024px) { .myservice--background { margin-left: 680px; margin-top: -480px; width: 300px; } }
 
-@media only screen and (max-width: 768px) { .myservice--background { margin-left: 460px; margin-top: -490px; height: 300px; } }
+@media only screen and (max-width: 768px) { .myservice--background { margin-left: 440px; margin-top: -490px; height: 320px; } }
 
-@media only screen and (max-width: 420px) { .myservice--background { height: 246px; width: 220px; margin-left: 219px; margin-top: -362px; } }
+@media only screen and (max-width: 420px) { .myservice--background { height: 246px; width: 220px; margin-left: 190px; margin-top: -362px; } }
 
-@media only screen and (max-width: 360px) { .myservice--background { margin-left: 164px; } }
+@media only screen and (max-width: 360px) { .myservice--background { margin-left: 131px; } }
 
 .about--pic { width: 390px; height: auto; }
 
@@ -3294,15 +3294,15 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .about--ring { width: 161.58px; height: 161.58px; position: absolute; margin-left: 325px; margin-top: -43px; z-index: 2; }
 
-@media only screen and (max-width: 1366px) { .about--ring { margin-left: 250px; margin-top: -40px; } }
+@media only screen and (max-width: 1366px) { .about--ring { margin-left: 255px; margin-top: -38px; } }
 
 @media only screen and (max-width: 1024px) { .about--ring { width: 138.58px; height: 138.58px; margin-left: 190px; margin-top: -20px; } }
 
 @media only screen and (max-width: 768px) { .about--ring { margin-left: 60px; margin-top: -25px; } }
 
-@media only screen and (max-width: 420px) { .about--ring { width: 120.58px; height: 120.58px; margin-left: 35px; margin-top: -20px; } }
+@media only screen and (max-width: 420px) { .about--ring { width: 120.58px; height: 120.58px; margin-left: 40px; margin-top: -20px; } }
 
-@media only screen and (max-width: 360px) { .about--ring { width: 120.58px; height: 120.58px; margin-left: -2px; margin-top: -20px; } }
+@media only screen and (max-width: 360px) { .about--ring { width: 120.58px; height: 120.58px; margin-left: 7px; margin-top: -20px; } }
 
 .form--bg { background: url(https://bayzid-himel04.github.io/agency-landing-page/assets/image/form2.png) no-repeat center top; margin-top: -60px; }
 
@@ -3316,13 +3316,13 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 @media only screen and (max-width: 360px) { .form--bg { margin-top: 1100px; } }
 
-@media only screen and (max-width: 768px) { .padding { margin: 30px; margin-left: 75px; justify-content: center; } }
+@media only screen and (max-width: 768px) { .padding { margin: 30px; margin-left: 100px; justify-content: center; } }
 
-@media only screen and (max-width: 1024px) { .padding { padding-left: 5px; } }
+@media only screen and (max-width: 1024px) { .padding { padding: 5px; } }
 
-@media only screen and (max-width: 420px) { .padding { padding: 5px; } }
+@media only screen and (max-width: 420px) { .padding { padding: 2px; margin-left: 32px; } }
 
-@media only screen and (max-width: 360px) { .padding { padding: 5px; } }
+@media only screen and (max-width: 360px) { .padding { padding: 5px; margin-left: 32px; } }
 
 .top { margin-top: 280px; }
 
