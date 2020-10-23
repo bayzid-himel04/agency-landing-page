@@ -3324,6 +3324,8 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 @media only screen and (max-width: 360px) { .padding { padding: 5px; } }
 
+.top { margin-top: 280px; }
+
 @media only screen and (max-width: 1366px) { .top { margin-top: 290px; } }
 
 @media only screen and (max-width: 1024px) { .top { margin-top: 280px; } }
